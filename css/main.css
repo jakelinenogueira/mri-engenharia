@@ -1,0 +1,181 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Poppins|Quicksand:400,500,700|Roboto:300,400,500');
+
+.top-header  {
+    height: 37px;
+    width: 100%;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #e6e6e6;
+
+}
+.top-header p {
+    float: right;
+    font-family: 'Roboto';
+    font-size: 12px;
+    line-height: 37px;
+    color: #808080;
+}
+
+.social {
+	 line-height: 37px;
+	 color: #b9b9b9;
+	 float: left;
+}
+
+.fa-facebook-f {
+	margin-right: 23px;
+}
+
+.fa-twitter {
+	margin-right: 23px;
+}
+
+.navigation {
+	height: 108px;
+	width: 100%;
+    background-color: #ffffff;
+    border-bottom: 3px solid #e08e23;
+	
+}
+
+.logo p {
+    float: left;
+    line-height: 108px; 
+    font-family: 'Roboto' 400;
+    font-size: 30px;
+    color: #e08e23;
+
+}
+
+.navbar {
+    height: 105px;
+    padding: 0px;
+    float: right;
+    line-height: 108px;
+    background-color: #ffffff !important;
+  
+}
+
+.navbar a {
+    font-family: 'Roboto' 400;
+    font-size: 13pt;
+    margin-left: 32px;
+
+}
+
+.nav-link {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    color: #949494 !important;
+   
+}
+
+.button-contact {
+    background-color: #e08e23;
+    height: 42px;
+    width: 150px;
+    color: #ffffff !important;
+    padding: 14px 22px;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px #d1d1d1;
+
+}
+
+.navbar-brand {
+    margin-right: 0px;
+    color: #949494 !important;
+}
+
+.button-contact:hover {
+    text-decoration: none;
+}
+
+.teaser {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+}
+
+.img-1 {
+    background-image: url(../img/img-1.png);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    filter: grayscale(100%); 
+}
+
+
+.img-2 {
+    background-image: url(../img/img-2.png);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    filter: grayscale(100%);
+
+}
+
+.img-3 {
+    background-image: url(../img/img-3.png);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    filter: grayscale(100%);
+
+}
+
+.img-4 {
+    background-image: url(../img/img-4.png);
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    filter: grayscale(100%);
+
+}
+
+.name {
+    height: 93px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.8;
+    position: absolute;
+    top: 407px;
+
+
+}
+
+.name p {
+    color: #ffffff;
+    font-family: 'Quicksand'!important;
+    font-size: 17pt;
+    text-align: center;
+    margin-top: 30px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.teaser .col-md-3 {
+    padding: 0px;
+}
+
+
+
+
